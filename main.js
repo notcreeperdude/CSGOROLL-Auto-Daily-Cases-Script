@@ -7,11 +7,11 @@
 // @match        https://www.csgoroll.com/*/boxes/world/daily-free
 // @icon         https://pbs.twimg.com/profile_images/1610084878720049154/n0j4nld9_400x400.png
 // @grant        none
-// @require https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @updateURL    https://github.com/MosesAndTheRock/CSGOROLL-Daily-Script/blob/main/main.js
 // @downloadURL  https://github.com/MosesAndTheRock/CSGOROLL-Daily-Script/blob/main/main.js
+// @require https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // ==/UserScript==
-
+1
 window.onload = function () {
   "use strict";
   console.clear();
