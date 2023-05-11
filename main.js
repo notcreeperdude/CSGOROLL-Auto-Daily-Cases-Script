@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CSGOROLL Daily Script 1.0V
+// @name         CSGOROLL Daily Script
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  A script that opens boxes every 24h for csgoroll.com to save time (recommended to put it in RDP)
