@@ -2,6 +2,7 @@
 // @name         CSGOROLL Daily Script
 // @namespace    http://tampermonkey.net/
 // @version      1.0
+// @homepage      https://github.com/MosesAndTheRock/CSGOROLL-Daily-Script
 // @description  A script that opens boxes every 24h for csgoroll.com to save time (recommended to put it in RDP)
 // @author       MESICAN
 // @match        https://www.csgoroll.com/*/boxes/world/daily-free
@@ -11,7 +12,7 @@
 // @downloadURL  https://github.com/MosesAndTheRock/CSGOROLL-Daily-Script/blob/main/main.js
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // ==/UserScript==
-1
+
 window.onload = function () {
   "use strict";
   console.clear();
