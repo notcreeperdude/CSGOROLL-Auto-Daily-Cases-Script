@@ -5,20 +5,15 @@
   </a>
 
   <h3 align="center">CSGOROLL Daily Script</h3>
-
   <p align="center">
     A script that opens boxes every 24h for csgoroll.com to save time (recommended to put it in RDP)
     <br/>
-    Note This Project Is Still W.I.P
+    <a href="#"><strong>View Demo »</strong></a>
     <br/>
+  </p>
+  <hr>
+   <p align="center">
+    To download it you need <a href="https://www.tampermonkey.net/">Tampermonkey</a>
     <br/>
-    <a href="https://readme.shaankhan.dev"><strong>View Demo »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator">Explore the docs</a>
-    .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Report Bug</a>
-    .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Request Feature</a>
   </p>
 </p>
