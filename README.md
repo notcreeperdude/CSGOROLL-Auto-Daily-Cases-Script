@@ -41,8 +41,7 @@ If the popup does not appear, refresh the page.
 It takes some time for it to reach your daily case as it starts by attempting to open the level 100 case and works backwards until it finds one it can open. 
 It takes 30 seconds per case so if you are a lower level it will take multiple minutes to reach your case, please be patient!
 
-
-
+9. If you like this repo, please leave a star so i know people are using it. Any questions or issues, please open an issue report
 
     
 ## FAQ
