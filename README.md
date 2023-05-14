@@ -16,6 +16,8 @@ For example: If you usually use chrome, install this on firefox instead.
 
 Warning: Tampermonkey is only in beta on the Opera browser
 
+Currently known issue, the popup does not appear on opera or firefox and so the script does not start.
+
 [Tampermonkey Official Page](https://www.tampermonkey.net/)
 
 2. After installing TamperMonkey you need to open its options menu and select "Create new script"
