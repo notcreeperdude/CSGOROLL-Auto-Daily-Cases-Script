@@ -57,7 +57,7 @@ window.onload = function () {
                 `
   );
     console.log(
-      "*********\n\nCSGOROLL Daily Script\nCoded By: MESICAN#8142 \nModified By: notcreeperdude and LukeA\n\n*********"
+      "*********\n\nCSGOROLL Daily Script\nRewritten By: notcreeperdude and LukeA \nOrigional Repo: MESICAN#8142 \n\n*********"
     );
 
     function open() {
