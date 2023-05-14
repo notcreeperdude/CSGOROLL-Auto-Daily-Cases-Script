@@ -12,6 +12,8 @@ For example: If you usually use chrome, install this on firefox instead.
 
 [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
+[Opera (Warning: Tampermonkey is only in beta on this browser)]([https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/))
+
 [Tampermonkey Official Page](https://www.tampermonkey.net/)
 
 2. After installing TamperMonkey you need to open its options menu and select "Create new script"
