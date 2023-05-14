@@ -12,7 +12,6 @@
 // @downloadURL  https://github.com/notcreeperdude/CSGOROLL-Daily-Script/blob/main/main.js
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // ==/UserScript==
-
 window.onload = function () {
     "use strict";
     console.clear();
@@ -80,8 +79,10 @@ window.onload = function () {
                     // open the case
                     const OpenCaseBtn = $(".open-btn").eq(11);
                     if (OpenCaseBtn) {
-                        OpenCaseBtn.click();
-                        console.log("Script: 2, Case is open");
+                        setTimeout(function () {
+                            OpenCaseBtn.click();
+                            console.log("Script: 2, Case is open");
+                        }, 3000);
                         // close the open case menu
                         const CloseCaseBtn = $(".close").eq(1);
                         if (CloseCaseBtn) {
