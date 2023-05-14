@@ -12,8 +12,9 @@ For example: If you usually use chrome, install this on firefox instead.
 
 [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-[Opera]([https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/))
- Warning: Tampermonkey is only in beta on the Opera browser
+[Opera](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
+
+Warning: Tampermonkey is only in beta on the Opera browser
 
 [Tampermonkey Official Page](https://www.tampermonkey.net/)
 
