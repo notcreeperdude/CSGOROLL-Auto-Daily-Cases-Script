@@ -2,6 +2,11 @@
 # CSGORoll Automated daily cases
 
 This script automatically opens your CSGORoll.com daily cases everday so that you don't have to worry about it!
+
+# Follow me on Twitter!
+## Always Buying and Selling skins and buff balance!
+[Twitter](https://twitter.com/AdmiralAtomicTV)
+
 ## Installation
 
 1. To run this script you will need to install the TamperMonkey/Greasemonkey browser extension:
@@ -43,7 +48,6 @@ It takes 30 seconds per case so if you are a lower level it will take multiple m
 
 9. If you like this repo, please leave a star so i know people are using it. Any questions or issues, please open an issue report
 
-    
 ## FAQ
 
 #### Can this script access my other pages?
