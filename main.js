@@ -99,7 +99,7 @@ window.onload = function () {
             } else {
                 console.log("Can't find OpenBtn");
             }
-        },300000);
+        },30000);
         }, 1000);
       setTimeout(open, 1000000);
     }
