@@ -6,6 +6,7 @@ This script automatically opens your CSGORoll.com daily cases everday so that yo
 
 1. To run this script you will need to install the TamperMonkey browser extension:
 It is suggested that you install this script on the opposite browser to the one you would usually use as the browser window must be left alone and must be the main open tab.
+For example: If you usually use chrome, install this on firefox instead.
 
 [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
