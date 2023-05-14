@@ -31,7 +31,11 @@ If the popup does not appear, refresh the page.
 
 6. Leave this browser window alone in its own separate grouping. Do not open a new tab otherwise you will need to restart the script by refreshing the page.
 
-7. If you wish to monitor the script, open up the browsers dev console by pressing f12
+7. If you wish to monitor the script, open up the browsers dev console by pressing f12.
+
+8. The script will take a while to start!
+It takes some time for it to reach your daily case as it starts by attempting to open the level 100 case and works backwards until it finds one it can open. 
+It takes 30 seconds per case so if you are a lower level it will take multiple minutes to reach your case, please be patient!
 
 
 
