@@ -16,7 +16,7 @@ For example: If you usually use chrome, install this on firefox instead.
 
 Warning: Tampermonkey is only in beta on the Opera browser
 
-Currently known issue, the popup does not appear on opera or firefox and so the script does not start.
+## Currently known issue, the popup does not appear on opera or firefox and so the script does not work. Currently looking for a fix. Only use chrome for now
 
 [Tampermonkey Official Page](https://www.tampermonkey.net/)
 
