@@ -4,31 +4,27 @@
 This script automatically opens your CSGORoll.com daily cases everday so that you don't have to worry about it!
 ## Installation
 
-1. To run this script you will need to install the TamperMonkey browser extension:
+1. To run this script you will need to install the TamperMonkey/Greasemonkey browser extension:
 It is suggested that you install this script on the opposite browser to the one you would usually use as the browser window must be left alone and must be the main open tab.
 For example: If you usually use chrome, install this on firefox instead.
 
-[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/greasemonkey/)
 
 [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-[Opera](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
-
-Warning: Tampermonkey is only in beta on the Opera browser
-
-## Currently known issue, the popup does not appear on opera or firefox and so the script does not work. Currently looking for a fix. Only use chrome for now
+Unfortunatley unavailable on other browsers.
 
 [Tampermonkey Official Page](https://www.tampermonkey.net/)
 
-2. After installing TamperMonkey you need to open its options menu and select "Create new script"
+2. After installing TamperMonkey/Greasemonkey you need to open its options menu and select "Create new script"
 
-![TamperMonkey Screenshot](https://i.imgur.com/FoMNpYl.png)
+![TamperMonkey/Greasemonkey Screenshot](https://i.imgur.com/FoMNpYl.png)
 
 3. Copy the entirety of the script below and paste it into the tampermonkey window, replacing all existing code in the script window:
 
 [Click Here For Script](https://github.com/notcreeperdude/CSGOROLL-Daily-Script/blob/main/main.js)
 
-![TamperMonkey pasted script](https://imgur.com/e39Ta2C.png)
+![TamperMonkey/Greasemonkey pasted script](https://imgur.com/e39Ta2C.png)
 
 4. Save and name the script as you wish
 
