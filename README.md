@@ -28,6 +28,7 @@ For example: If you usually use chrome, install this on firefox instead.
 
 5. Go to your [CSGORoll daily case page](https://www.csgoroll.com/en/boxes/world/daily-free) and press "OK on the popup to start the script.
 If the popup does not appear, refresh the page.
+
 ![CSGORoll Popup](https://imgur.com/Udsd3oG.png)
 
 6. Leave this browser window alone in its own separate grouping. Do not open a new tab otherwise you will need to restart the script by refreshing the page.
